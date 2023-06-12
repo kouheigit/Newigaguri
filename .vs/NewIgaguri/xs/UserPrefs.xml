@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{664360A9-A5E7-F087-364B-EC8E1F0B0FF7}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IgaguriController.cs">
     <Files>
-      <File FileName="Assets/IgaguriController.cs" Line="14" Column="54" />
+      <File FileName="Assets/IgaguriController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +13,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a580ffe2-09bc-4f79-b149-4c2e052e9731" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="04375143-1989-4626-8b0e-5de5a02b2d60" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
