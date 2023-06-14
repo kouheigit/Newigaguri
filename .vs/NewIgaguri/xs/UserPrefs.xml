@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{664360A9-A5E7-F087-364B-EC8E1F0B0FF7}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IgaguriGenerator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IgaguriController.cs">
     <Files>
-      <File FileName="Assets/IgaguriController.cs" Line="22" Column="30" />
       <File FileName="Assets/IgaguriGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/IgaguriController.cs" Line="22" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NewIgaguri" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="IgaguriController.cs" selected="True" />
+              <Node name="IgaguriGenerator.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -18,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="04375143-1989-4626-8b0e-5de5a02b2d60" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1691a12f-60f5-4f80-867f-e99ae91fdee8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94610c7b6c9c849d0bd80660bbd13597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  igaguriPrefab: {fileID: 0}
+  igaguriPrefab: {fileID: 9072234369871443443, guid: f23365afb8e264cfcb8125fa6affc470, type: 3}
 --- !u!4 &658007899
 Transform:
   m_ObjectHideFlags: 0
